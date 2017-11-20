@@ -25,7 +25,7 @@ SECRET_KEY = 'on!$92l+6+%wbbf_dj0%jcq9w4i7sr&s-=-*i6y0xvg4ft08o7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'djangolover.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'loverdjango.pythonanywhere.com']
 
 
 # Application definition
